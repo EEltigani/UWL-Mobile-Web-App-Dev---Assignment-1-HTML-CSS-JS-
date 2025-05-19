@@ -1,5 +1,4 @@
-# UWL-Mobile-Web-App-Dev---Assignment-1-HTML-CSS-JS-
-# 📱 Mobile Web Application Development – Assignment 1
+# 📱 Mobile Web Application Development
 
 This project was created as part of the **Mobile Web Application Development (CP50093E)** module at the **University of West London**. It demonstrates fundamental client-side web development concepts using **HTML**, **CSS**, and **JavaScript**.
 
